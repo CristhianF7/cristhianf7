@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there, I'm Cristhian Fernández 👋
 
 <!--
 **CristhianF7/cristhianf7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![CristhianF7 Stats](https://github-readme-stats.vercel.app/api?username=cristhianf7&show_icons=true&theme=dracula&custom_title=GitHub%20Stats&include_all_commits=true)
